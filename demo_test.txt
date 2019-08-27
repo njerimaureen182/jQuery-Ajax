@@ -1,0 +1,2 @@
+<h2>Ajax Jquery</h2>
+<p id="p1">today is friday</p>
